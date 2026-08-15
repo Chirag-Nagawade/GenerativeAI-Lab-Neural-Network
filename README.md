@@ -55,7 +55,7 @@ The dataset is loaded using:
 from sklearn.datasets import load_iris
 
 iris = load_iris()
-
+```
 Neural Network Architecture
 Input Layer
 4 Neurons
